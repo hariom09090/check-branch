@@ -1,5 +1,5 @@
 #include<stdio.h>
 int main(){
-    printf("New branch\n\n");
+    printf("New other branch\n\n");
     return 0;
 }
